@@ -1,0 +1,8 @@
+Write
+each
+resourcepacks
+name
+on
+a
+new
+line

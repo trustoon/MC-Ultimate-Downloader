@@ -1,0 +1,8 @@
+Write
+each
+datapacks
+name
+on
+a
+new
+line

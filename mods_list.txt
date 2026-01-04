@@ -1,0 +1,8 @@
+Write
+each
+mod
+name
+on
+a
+new
+line
