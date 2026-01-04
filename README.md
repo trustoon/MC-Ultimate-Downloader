@@ -8,4 +8,4 @@ To fill in these text files correctly, you need to write the names of mods/resou
 
 *to do this, it is best to create a separate folder and drag the executable file there.*
 
-Enjoy!
+__Enjoy!__
