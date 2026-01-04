@@ -4,4 +4,5 @@ This utility automatically updates installed mods, resource packs, and data pack
 ## How to correctly fill out mods_list.txt, dp_list.txt (data packs) and rp_list.txt (resource packs) files?
 To fill in these text files correctly, you need to write the names of mods/resource packs/datapacks separately on a new line. To speed up this process, you can use my other utility, File Analyzer.
 
-Enjoy!
+
+# Enjoy!
